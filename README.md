@@ -1,6 +1,7 @@
-# MTH594_MachineLearning
+# MTH594 Advanced data mining: theory and applications
+
 The materials for the course MTH 594 Advanced data mining: theory and applications taught by Dmitry Efimov in American University of Sharjah, UAE.
-I teach this course this semester and by June, 2016 I will upload all lectures and supplementary files here.
+I teach this course this semester and by June, 2016 I will upload all lectures and supplementary files here. The program of the course can be downloaded from the folder syllabus.
 
 To compose this lectures mainly I used the ideas from three sources: 
 

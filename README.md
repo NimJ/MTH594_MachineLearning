@@ -13,4 +13,4 @@ All uploaded pdf lectures are adapted in a way to help students to understand th
 
 The supplementary files from ipython folder are aimed to teach students how to use built-in methods to train the models on Python 2.7.
 
-
+In case you found some mistake or type, please email me diefimov@gmail.com, this course is a new for me and I am pretty sure there are some :)

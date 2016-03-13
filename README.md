@@ -17,39 +17,39 @@ In case you found some mistakes or typos, please email me diefimov@gmail.com, th
 
 Currently, the following list of topics is covered:
 
-## Lecture 1
-### Basic notations
-### Linear regression
-### Gradient descent
-### Normal equations
+### Lecture 1
+#### Basic notations
+#### Linear regression
+#### Gradient descent
+#### Normal equations
 
-## Lecture 2
-### Locally weighted regression
-### Linear regression: probabilistic interpretation
-### Logistic regression
-### Perceptron
+### Lecture 2
+#### Locally weighted regression
+#### Linear regression: probabilistic interpretation
+#### Logistic regression
+#### Perceptron
 
-## Lecture 3
-### Newton's method
-### Exponential family
-### Generalized Linear Models (GLM)
-### Generative learning algorithms
+### Lecture 3
+#### Newton's method
+#### Exponential family
+#### Generalized Linear Models (GLM)
+#### Generative learning algorithms
 
-## Lecture 4
-### Gaussians
-### Gaussian discriminant analysis
-### Generative vs Discriminant comparison
-### Naive Bayes
-### Laplace Smoothing
+### Lecture 4
+#### Gaussians
+#### Gaussian discriminant analysis
+#### Generative vs Discriminant comparison
+#### Naive Bayes
+#### Laplace Smoothing
 
-## Lecture 5
-### Event models
-### Neural networks
-### Support vector machines: intuition
+### Lecture 5
+#### Event models
+#### Neural networks
+#### Support vector machines: intuition
 
-## Lecture 6
-### Primal/dual optimization problem and KKT
-### SVM dual
-### Kernels
-### Soft margin algorithm
-### SMO algorithm
+### Lecture 6
+#### Primal/dual optimization problem and KKT
+#### SVM dual
+#### Kernels
+#### Soft margin algorithm
+#### SMO algorithm

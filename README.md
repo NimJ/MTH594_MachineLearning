@@ -45,9 +45,9 @@ Currently, the following list of topics is covered:
 ### Lecture 5
 #### Event models
 #### Neural networks
-#### Support vector machines: intuition
 
 ### Lecture 6
+#### Support vector machines: intuition
 #### Primal/dual optimization problem and KKT
 #### SVM dual
 #### Kernels

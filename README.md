@@ -53,3 +53,10 @@ Currently, the following list of topics is covered:
 #### Kernels
 #### Soft margin algorithm
 #### SMO algorithm
+
+### Lecture 7
+#### Generalized additive models (GAM)
+#### Tree-based methods
+#### Boosting
+#### Boosting trees
+

@@ -60,3 +60,10 @@ Currently, the following list of topics is covered:
 #### Boosting
 #### Boosting trees
 
+### Lecture 8
+#### Bias / variance
+#### Empirical risk minimization (ERM)
+#### Union bound / Hoeffding inequality
+#### Uniform convergence
+#### VC dimension
+

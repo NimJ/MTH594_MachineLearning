@@ -67,3 +67,18 @@ Currently, the following list of topics is covered:
 #### Uniform convergence
 #### VC dimension
 
+### Lecture 9
+#### Model selection
+#### Feature selection
+#### Bayesian approach and regularization
+#### Online learning
+#### Advices for apply ML algorithms
+
+### Lecture 10
+#### Clustering (k-means)
+#### Mixture of Gaussians
+#### Jensen's inequality
+#### General EM algorithm
+#### EM algorithm for the mixture of Gaussians
+#### EM algorithm for the mixture of Naive Bayes
+

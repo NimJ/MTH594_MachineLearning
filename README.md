@@ -82,3 +82,9 @@ Currently, the following list of topics is covered:
 #### EM algorithm for the mixture of Gaussians
 #### EM algorithm for the mixture of Naive Bayes
 
+### Lecture 11
+#### Factor analysis
+#### Principal component analysis
+#### Latent semantic indexing
+#### Independent component analysis
+

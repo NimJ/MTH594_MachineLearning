@@ -15,76 +15,134 @@ The supplementary files from ipython folder are aimed to teach students how to u
 
 In case you found some mistakes or typos, please email me diefimov@gmail.com, this course is a new for me and probably there are some :)
 
-Currently, the following list of topics is covered:
+The content of the lectures:
 
-### Lecture 1
-#### Basic notations
+## Supervised learning
+
+### Linear and logistic regressions, perceptrons
 #### Linear regression
-#### Gradient descent
-#### Normal equations
-
-### Lecture 2
-#### Locally weighted regression
-#### Linear regression: probabilistic interpretation
+#### Analytical minimization: normal equations
+#### Statistical interpretation
 #### Logistic regression
 #### Perceptron
+#### Bayesian interpretation and regularization
+#### Python implementation
+##### Linear regression
+##### Logistic regression
+##### Perceptron
+##### Regularization
 
-### Lecture 3
+### Methods of optimization
+#### Gradient descent
+#### Examples of gradient descent
 #### Newton's method
+#### Python implementation
+##### Batch gradient descent
+##### Stochastic gradient descent
+
+### Generalized linear models (GLM)
 #### Exponential family
 #### Generalized Linear Models (GLM)
-#### Generative learning algorithms
+#### Python implementation
+##### Softmax regression
 
-### Lecture 4
+### Generative learning algorithms
+#### General idea of generative algorithms
 #### Gaussians
 #### Gaussian discriminant analysis
 #### Generative vs Discriminant comparison
 #### Naive Bayes
-#### Laplace Smoothing
-
-### Lecture 5
+#### Laplace smoothing
 #### Event models
-#### Neural networks
+#### Python implementation
+##### Gaussians
+##### Gaussian discriminant analysis
+##### Naive Bayes
 
-### Lecture 6
+### Neural networks
+#### Definition
+#### Backpropagation
+#### Python implementation
+
+### Support vector machines
 #### Support vector machines: intuition
 #### Primal/dual optimization problem and KKT
 #### SVM dual
 #### Kernels
-#### Soft margin algorithm
+#### Kernel examples
+#### Kernel testing
+#### SVM with kernels
+#### Soft margin
 #### SMO algorithm
+#### Python implementation
+##### Coordinate ascent
+##### SVM
+##### SMO algorithm
 
-### Lecture 7
+### Nonparametric methods
+#### Locally weighted regression
 #### Generalized additive models (GAM)
+#### GAM for regression
+#### GAM for classification
 #### Tree-based methods
+#### Regression trees
+#### Classification trees
 #### Boosting
-#### Boosting trees
+##### Exponential loss
+##### Adaboost
+##### Gradient boosting
+##### Gradient tree boosting
+#### Python implementation
+##### Locally weighted regression
+##### GAM for regression
+##### GAM for classification
+##### Regression decision trees
+##### Classification decision trees
+##### Gradient tree boosting
 
-### Lecture 8
+### Learning theory
 #### Bias / variance
 #### Empirical risk minimization (ERM)
 #### Union bound / Hoeffding inequality
 #### Uniform convergence
 #### VC dimension
 
-### Lecture 9
-#### Model selection
+### Model selection
 #### Feature selection
-#### Bayesian approach and regularization
-#### Online learning
-#### Advices for apply ML algorithms
+#### Python implementation
+##### Cross validation
 
-### Lecture 10
-#### Clustering (k-means)
+### Online learning
+
+### Advices for apply ML algorithms
+
+## Unsupervised learning
+
+### Clustering
+#### K-means
+#### Python implementation
+
+### Mixture of Gaussians and EM algorithm
 #### Mixture of Gaussians
 #### Jensen's inequality
 #### General EM algorithm
 #### EM algorithm for the mixture of Gaussians
 #### EM algorithm for the mixture of Naive Bayes
+#### Python implementation
+##### Mixture of Gaussians
+##### EM algorithm for mixture of Gaussians
 
-### Lecture 11
-#### Factor analysis
-#### Principal component analysis
-#### Latent semantic indexing
-#### Independent component analysis
+### Factor analysis
+#### Intuition
+#### Marginal and conditionals for Gaussians
+#### Factor analysis model
+#### EM steps for factor analysis
+#### Python implementation
+
+### Principal component analysis
+#### PCA algorithm
+#### Latent semantic indexing (LSI)
+#### Python implementation
+
+#### Independent component analysis (ICA)
 

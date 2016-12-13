@@ -17,7 +17,7 @@ In case you found some mistakes or typos, please email me diefimov@gmail.com, th
 
 The content of the lectures:
 
-## Supervised learning
+# Supervised learning
 
 ### Linear and logistic regressions, perceptrons
 #### Linear regression
@@ -27,24 +27,24 @@ The content of the lectures:
 #### Perceptron
 #### Bayesian interpretation and regularization
 #### Python implementation
-##### Linear regression
-##### Logistic regression
-##### Perceptron
-##### Regularization
+###### Linear regression
+###### Logistic regression
+###### Perceptron
+###### Regularization
 
 ### Methods of optimization
 #### Gradient descent
 #### Examples of gradient descent
 #### Newton's method
 #### Python implementation
-##### Batch gradient descent
-##### Stochastic gradient descent
+###### Batch gradient descent
+###### Stochastic gradient descent
 
 ### Generalized linear models (GLM)
 #### Exponential family
 #### Generalized Linear Models (GLM)
 #### Python implementation
-##### Softmax regression
+###### Softmax regression
 
 ### Generative learning algorithms
 #### General idea of generative algorithms
@@ -55,9 +55,9 @@ The content of the lectures:
 #### Laplace smoothing
 #### Event models
 #### Python implementation
-##### Gaussians
-##### Gaussian discriminant analysis
-##### Naive Bayes
+###### Gaussians
+###### Gaussian discriminant analysis
+###### Naive Bayes
 
 ### Neural networks
 #### Definition
@@ -75,9 +75,9 @@ The content of the lectures:
 #### Soft margin
 #### SMO algorithm
 #### Python implementation
-##### Coordinate ascent
-##### SVM
-##### SMO algorithm
+###### Coordinate ascent
+###### SVM
+###### SMO algorithm
 
 ### Nonparametric methods
 #### Locally weighted regression
@@ -88,17 +88,17 @@ The content of the lectures:
 #### Regression trees
 #### Classification trees
 #### Boosting
-##### Exponential loss
-##### Adaboost
-##### Gradient boosting
-##### Gradient tree boosting
+###### Exponential loss
+###### Adaboost
+###### Gradient boosting
+###### Gradient tree boosting
 #### Python implementation
-##### Locally weighted regression
-##### GAM for regression
-##### GAM for classification
-##### Regression decision trees
-##### Classification decision trees
-##### Gradient tree boosting
+###### Locally weighted regression
+###### GAM for regression
+###### GAM for classification
+###### Regression decision trees
+###### Classification decision trees
+###### Gradient tree boosting
 
 ### Learning theory
 #### Bias / variance
@@ -110,13 +110,13 @@ The content of the lectures:
 ### Model selection
 #### Feature selection
 #### Python implementation
-##### Cross validation
+###### Cross validation
 
 ### Online learning
 
 ### Advices for apply ML algorithms
 
-## Unsupervised learning
+# Unsupervised learning
 
 ### Clustering
 #### K-means
@@ -129,8 +129,8 @@ The content of the lectures:
 #### EM algorithm for the mixture of Gaussians
 #### EM algorithm for the mixture of Naive Bayes
 #### Python implementation
-##### Mixture of Gaussians
-##### EM algorithm for mixture of Gaussians
+###### Mixture of Gaussians
+###### EM algorithm for mixture of Gaussians
 
 ### Factor analysis
 #### Intuition

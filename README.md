@@ -144,5 +144,5 @@ The content of the lectures:
 #### Latent semantic indexing (LSI)
 #### Python implementation
 
-#### Independent component analysis (ICA)
+### Independent component analysis (ICA)
 

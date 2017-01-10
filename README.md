@@ -1,13 +1,13 @@
 # MTH594 Advanced data mining: theory and applications
 
-The materials for the course MTH 594 Advanced data mining: theory and applications taught by Dmitry Efimov in American University of Sharjah, UAE.
-I teach this course this semester and by June, 2016 I will upload all lectures and supplementary files here. The program of the course can be downloaded from the folder syllabus.
+The materials for the course MTH 594 Advanced data mining: theory and applications taught by Dmitry Efimov in American University of Sharjah, UAE in Spring, 2016 semester.
+The program of the course can be downloaded from the folder syllabus.
 
 To compose this lectures mainly I used the ideas from three sources: 
 
-1. Stanford lectures by Andrew Ng on YouTube: https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599 (lectures 1-6, 8-11)
-2. The book "The elements of Statistical Learning" by T. Hastie, R. Tibshirani and J. Friedman: http://statweb.stanford.edu/~tibs/ElemStatLearn (lecture 7)
-3. Lectures by Andrew Ng on Coursera: https://www.coursera.org/learn/machine-learning (lecture 5)
+1. Stanford lectures by Andrew Ng on YouTube: https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599
+2. The book "The elements of Statistical Learning" by T. Hastie, R. Tibshirani and J. Friedman: http://statweb.stanford.edu/~tibs/ElemStatLearn
+3. Lectures by Andrew Ng on Coursera: https://www.coursera.org/learn/machine-learning
 
 All uploaded pdf lectures are adapted in a way to help students to understand the material.
 
@@ -15,76 +15,134 @@ The supplementary files from ipython folder are aimed to teach students how to u
 
 In case you found some mistakes or typos, please email me diefimov@gmail.com, this course is a new for me and probably there are some :)
 
-Currently, the following list of topics is covered:
+The content of the lectures:
 
-### Lecture 1
-#### Basic notations
+# Supervised learning
+
+### Linear and logistic regressions, perceptrons
 #### Linear regression
-#### Gradient descent
-#### Normal equations
-
-### Lecture 2
-#### Locally weighted regression
-#### Linear regression: probabilistic interpretation
+#### Analytical minimization: normal equations
+#### Statistical interpretation
 #### Logistic regression
 #### Perceptron
+#### Bayesian interpretation and regularization
+#### Python implementation
+###### Linear regression
+###### Logistic regression
+###### Perceptron
+###### Regularization
 
-### Lecture 3
+### Methods of optimization
+#### Gradient descent
+#### Examples of gradient descent
 #### Newton's method
+#### Python implementation
+###### Batch gradient descent
+###### Stochastic gradient descent
+
+### Generalized linear models (GLM)
 #### Exponential family
 #### Generalized Linear Models (GLM)
-#### Generative learning algorithms
+#### Python implementation
+###### Softmax regression
 
-### Lecture 4
+### Generative learning algorithms
+#### General idea of generative algorithms
 #### Gaussians
 #### Gaussian discriminant analysis
 #### Generative vs Discriminant comparison
 #### Naive Bayes
-#### Laplace Smoothing
-
-### Lecture 5
+#### Laplace smoothing
 #### Event models
-#### Neural networks
+#### Python implementation
+###### Gaussians
+###### Gaussian discriminant analysis
+###### Naive Bayes
 
-### Lecture 6
+### Neural networks
+#### Definition
+#### Backpropagation
+#### Python implementation
+
+### Support vector machines
 #### Support vector machines: intuition
 #### Primal/dual optimization problem and KKT
 #### SVM dual
 #### Kernels
-#### Soft margin algorithm
+#### Kernel examples
+#### Kernel testing
+#### SVM with kernels
+#### Soft margin
 #### SMO algorithm
+#### Python implementation
+###### Coordinate ascent
+###### SVM
+###### SMO algorithm
 
-### Lecture 7
+### Nonparametric methods
+#### Locally weighted regression
 #### Generalized additive models (GAM)
+#### GAM for regression
+#### GAM for classification
 #### Tree-based methods
+#### Regression trees
+#### Classification trees
 #### Boosting
-#### Boosting trees
+###### Exponential loss
+###### Adaboost
+###### Gradient boosting
+###### Gradient tree boosting
+#### Python implementation
+###### Locally weighted regression
+###### GAM for regression
+###### GAM for classification
+###### Regression decision trees
+###### Classification decision trees
+###### Gradient tree boosting
 
-### Lecture 8
+### Learning theory
 #### Bias / variance
 #### Empirical risk minimization (ERM)
 #### Union bound / Hoeffding inequality
 #### Uniform convergence
 #### VC dimension
 
-### Lecture 9
-#### Model selection
+### Model selection
 #### Feature selection
-#### Bayesian approach and regularization
-#### Online learning
-#### Advices for apply ML algorithms
+#### Python implementation
+###### Cross validation
 
-### Lecture 10
-#### Clustering (k-means)
+### Online learning
+
+### Advices for apply ML algorithms
+
+# Unsupervised learning
+
+### Clustering
+#### K-means
+#### Python implementation
+
+### Mixture of Gaussians and EM algorithm
 #### Mixture of Gaussians
 #### Jensen's inequality
 #### General EM algorithm
 #### EM algorithm for the mixture of Gaussians
 #### EM algorithm for the mixture of Naive Bayes
+#### Python implementation
+###### Mixture of Gaussians
+###### EM algorithm for mixture of Gaussians
 
-### Lecture 11
-#### Factor analysis
-#### Principal component analysis
-#### Latent semantic indexing
-#### Independent component analysis
+### Factor analysis
+#### Intuition
+#### Marginal and conditionals for Gaussians
+#### Factor analysis model
+#### EM steps for factor analysis
+#### Python implementation
+
+### Principal component analysis
+#### PCA algorithm
+#### Latent semantic indexing (LSI)
+#### Python implementation
+
+### Independent component analysis (ICA)
 
